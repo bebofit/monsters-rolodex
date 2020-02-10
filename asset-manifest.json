@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bebofit/monsters-rolodex.git/static/css/main.7eb8f5b6.chunk.css",
+    "main.js": "/bebofit/monsters-rolodex.git/static/js/main.ba6efda6.chunk.js",
+    "main.js.map": "/bebofit/monsters-rolodex.git/static/js/main.ba6efda6.chunk.js.map",
+    "runtime-main.js": "/bebofit/monsters-rolodex.git/static/js/runtime-main.38e4b3df.js",
+    "runtime-main.js.map": "/bebofit/monsters-rolodex.git/static/js/runtime-main.38e4b3df.js.map",
+    "static/js/2.1f3314c8.chunk.js": "/bebofit/monsters-rolodex.git/static/js/2.1f3314c8.chunk.js",
+    "static/js/2.1f3314c8.chunk.js.map": "/bebofit/monsters-rolodex.git/static/js/2.1f3314c8.chunk.js.map",
+    "index.html": "/bebofit/monsters-rolodex.git/index.html",
+    "precache-manifest.104083d26e958776d98d15deadf30ebf.js": "/bebofit/monsters-rolodex.git/precache-manifest.104083d26e958776d98d15deadf30ebf.js",
+    "service-worker.js": "/bebofit/monsters-rolodex.git/service-worker.js",
+    "static/css/main.7eb8f5b6.chunk.css.map": "/bebofit/monsters-rolodex.git/static/css/main.7eb8f5b6.chunk.css.map",
+    "static/js/2.1f3314c8.chunk.js.LICENSE.txt": "/bebofit/monsters-rolodex.git/static/js/2.1f3314c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38e4b3df.js",
+    "static/js/2.1f3314c8.chunk.js",
+    "static/css/main.7eb8f5b6.chunk.css",
+    "static/js/main.ba6efda6.chunk.js"
+  ]
+}
